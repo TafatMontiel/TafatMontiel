@@ -11,7 +11,7 @@
 
 :computer:Soy analista de Datos con pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos.
 
-:mortar_board:Soy profesional en seguridad laboral y aestudiante de administración de empresas.
+:mortar_board:Soy profesional en seguridad laboral y estudiante de administración de empresas.
 
 :dart:Actualmente estoy profundizando en Power BI y SQL.
 
@@ -26,17 +26,10 @@
 ## :bar_chart:Conocimientos </b>
 <br>
 
- ![C](https://camo.githubusercontent.com/7ae3cba30862d3d69ff363ad73a6f74af02b2c9ee9f9c3a95d1e40e71c701224/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657242492d3333333333333f737479)
-![C](https://camo.githubusercontent.com/de0aca4ffca61a57fbeb0633959cd4e6c4bd79bc990667c30333f6fe8f2be903/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457863656c2d3333333333333f7374796c653d666c6174266c6f676f3d457863656c)    
-
     
-<p align="center">
-
-- **Languages**:
+    ![C](https://camo.githubusercontent.com/7ae3cba30862d3d69ff363ad73a6f74af02b2c9ee9f9c3a95d1e40e71c701224/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657242492d3333333333333f7374796c653d666c6174266c6f676f3d506f7765724249)
+    ![C++](https://camo.githubusercontent.com/de0aca4ffca61a57fbeb0633959cd4e6c4bd79bc990667c30333f6fe8f2be903/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457863656c2d3333333333333f7374796c653d666c6174266c6f676f3d457863656c)
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     

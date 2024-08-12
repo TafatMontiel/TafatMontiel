@@ -1,4 +1,4 @@
-:wave:#Bienvenido a mi portafolio de Analisis de Datos!
+:wave:#**Bienvenido a mi portafolio de Analisis de Datos!**
 
 ¡Hola! Me llamo Tafat y soy analista de Datos con una pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos. 
 Actualmente estoy estudiando Administración de Empresas, lo que me permite combinar mis habilidades técnicas con una visión estratégica del negocio. Soy competente en el uso 
@@ -12,7 +12,14 @@ Este portafolio, incluye una variedad de proyectos que muestran mis habilidades 
 varias herramientas como Power BI, Tableau y Excel. Estos proyectos demuestran mi capacidad para analizar y presentar datos de una manera clara y visualmente atractiva, lo que 
 facilita que los tomadores de decisiones comprendan la información y tomen medidas.
 
-Puede contactarme a traves de mi E-mail: tafatmontiel18@hotmail.com
- 
-Gracias por su tiempo, espero tener noticias suyas pronto.
+[(https://drive.google.com/file/d/1pXk4CZVhxF3TykNDkZTQYe5t8TbyK__5/view?usp=sharing)]  
+
+:speech_balloon:Como contactarme: tafatmontiel18@hotmail.com
+:zap:Dato curioso: Me encanta bailar!
+
+##**Empresas para las que he trabajado**
+![image](https://github.com/user-attachments/assets/02ad3a42-8621-4b32-b6bb-b05e646bfc25)
+
+
+Gracias por tu tiempo, espero tener noticias tuyas pronto.
   

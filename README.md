@@ -3,7 +3,7 @@
 <!--  -->
 
 
-:hibiscus: ##  **Sobre mí**
+##  **Sobre mí**
 
 
 

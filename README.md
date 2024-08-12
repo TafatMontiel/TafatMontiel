@@ -20,6 +20,8 @@
 :mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1pXk4CZVhxF3TykNDkZTQYe5t8TbyK__5/view?usp=drive_link)
 
 
+<br><br>
+
 
 
 ## :bar_chart:Conocimientos </b>

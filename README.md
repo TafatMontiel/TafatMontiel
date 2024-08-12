@@ -55,6 +55,8 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tafatjebneel/?fbclid=IwY2xjawEnElxleHRuA2FlbQIxMAABHdbhUPFk_5tS0oE9ccwv1Qu8_D3NxV3_1R-agm6hBBbkht_prNzgUz2CSw_aem_q3wr03WuJo-m3xidPSL4Cw">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+   <a href="mailto:tafatmontiel18@hotmail.com" target="_blank">
+<img src=https://drive.google.com/file/d/1NQPvva_QgTXgsWo82hLDjdyivKg-kuk3/view?usp=sharing"margin-bottom: 5px;" />
     
    
 

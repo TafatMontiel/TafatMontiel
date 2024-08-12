@@ -1,5 +1,5 @@
 
-<h1 align="left"><b>:wave:¡Hola! , Soy Tafat.
+<h1 align="left"><b>:wave:¡Hola! , Soy Tafat.width="35"></h1>
 <!--  -->
 <p align="center">
 

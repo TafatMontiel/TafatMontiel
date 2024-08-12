@@ -64,10 +64,8 @@
 
 
 ##  :zap:**Datos no laborales**
-
-
-
 <br>
+
 
 :dancer:Me gusta bailar
 

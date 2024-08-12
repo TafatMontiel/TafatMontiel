@@ -1,34 +1,33 @@
 
-<h1 align="center"><b>¡Hola! , Soy Tafat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center">:wave:¡Hola! , Soy Tafat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <p align="center">
 
-
-
 <br>
-
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+:computer:Soy analista de Datos con pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos.
+:mortar_board:Soy profesional en seguridad laboral y aestudiante de administración de empresas.
+:dart:Actualmente estoy profundizando en Power BI y SQL.
+:earth_americas:Hablo español (Nativo) e Inglés (B1) aunque planeo seguir aprendiendo.
+:mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1pXk4CZVhxF3TykNDkZTQYe5t8TbyK__5/view?usp=drive_link)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## :bar_chart:Conocimientos </b>
 <br>
 
+ ![C](https://camo.githubusercontent.com/7ae3cba30862d3d69ff363ad73a6f74af02b2c9ee9f9c3a95d1e40e71c701224/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657242492d3333333333333f737479)
+![C](https://camo.githubusercontent.com/de0aca4ffca61a57fbeb0633959cd4e6c4bd79bc990667c30333f6fe8f2be903/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457863656c2d3333333333333f7374796c653d666c6174266c6f676f3d457863656c)    
+
+    
 <p align="center">
 
 - **Languages**:

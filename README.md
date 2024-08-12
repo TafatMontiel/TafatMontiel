@@ -17,7 +17,7 @@
 
 :earth_americas:Hablo español (Nativo) e Inglés (B1) aunque planeo seguir aprendiendo.
 
-:mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1pXk4CZVhxF3TykNDkZTQYe5t8TbyK__5/view?usp=drive_link)
+:mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1_-44eZ6hfABNVnkpEiZLCniy4pmirBBG/view?usp=sharing)
 
 
 <br><br>
@@ -54,8 +54,23 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	 <a href="mailto:tafatmontiel18@hotmail.com">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-   
-   
+
+
+   <br>   
+    
+
+
+
+
+
+
+## <b> :zap::Datos no laborales
+
+- :dancer:Me gusta bailar
+- :video_game:Me encantan los videojuegos (sobre todo los de estrategia)
+- :musical_keyboard:Se tocar el piano (pero poquito)
+- :muscle:Disfruto mucho el ejercicio
+- :airplane:Mi sueño es conocer tantos paises como pueda
    
 		
 

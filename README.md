@@ -40,10 +40,7 @@
 
 
 ## <b> :iphone:Para contactarme:
-<br>
-<div align='left'>
 
-<ul>
 
 <p align="left">
 

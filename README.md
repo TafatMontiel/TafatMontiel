@@ -12,14 +12,16 @@ Este portafolio, incluye una variedad de proyectos que muestran mis habilidades 
 varias herramientas como Power BI, Tableau y Excel. Estos proyectos demuestran mi capacidad para analizar y presentar datos de una manera clara y visualmente atractiva, lo que 
 facilita que los tomadores de decisiones comprendan la información y tomen medidas.
 
-:speech_balloon:Como contactarme: tafatmontiel18@hotmail.com
+:mailbox:Como contactarme: tafatmontiel18@hotmail.com
+
 :zap:Dato curioso: Me encanta bailar!
 
 **Empresas para las que he trabajado**
 
-![image](https://github.com/user-attachments/assets/02ad3a42-8621-4b32-b6bb-b05e646bfc25)
+![image](https://github.com/user-attachments/assets/0d0c9a8c-77f9-40d6-93d6-1feaaf8f4021)
 
 
 
-Gracias por tu tiempo, espero tener noticias tuyas pronto.
+
+¡No dudes en comunicarte conmigo!
   

@@ -22,7 +22,6 @@
 <br><br>
 
 
-
 ## :bar_chart:Conocimientos </b>
 <br>
 
@@ -39,7 +38,7 @@
 
 
 
-## <b> :iphone:Para contactarme:
+## <b> :iphone:Para contactarme
 
 
 <p align="left">

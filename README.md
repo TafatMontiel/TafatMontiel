@@ -18,7 +18,8 @@ facilita que los tomadores de decisiones comprendan la información y tomen medi
 
 **Empresas para las que he trabajado**
 
-![image](https://github.com/user-attachments/assets/0d0c9a8c-77f9-40d6-93d6-1feaaf8f4021)
+![image](https://github.com/user-attachments/assets/4320fb65-d979-42a1-8829-e7ee76a5fd23)
+
 
 
 

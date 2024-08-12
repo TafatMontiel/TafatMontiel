@@ -9,15 +9,15 @@
 
 <br>
 
-:computer:Soy analista de Datos con pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos.
+- :computer:Soy analista de Datos con pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos.
 
-:mortar_board:Soy profesional en seguridad laboral y estudiante de administración de empresas.
+- :mortar_board:Soy profesional en seguridad laboral y estudiante de administración de empresas.
 
-:dart:Actualmente estoy profundizando en Power BI y SQL.
+- :dart:Actualmente estoy profundizando en Power BI y SQL.
 
-:earth_americas:Hablo español (Nativo) e Inglés (B1) aunque planeo seguir aprendiendo.
+- :earth_americas:Hablo español (Nativo) e Inglés (B1) aunque planeo seguir aprendiendo.
 
-:mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1_-44eZ6hfABNVnkpEiZLCniy4pmirBBG/view?usp=sharing)
+- :mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1_-44eZ6hfABNVnkpEiZLCniy4pmirBBG/view?usp=sharing)
 
 
 <br><br>
@@ -65,13 +65,20 @@
 
 ##  :zap:**Datos no laborales**
 
+
+
 <br>
 
-- :dancer:Me gusta bailar
-- :video_game:Me encantan los videojuegos (sobre todo los de estrategia)
-- :musical_keyboard:Se tocar el piano (pero poquito)
-- :muscle:Disfruto mucho el ejercicio
-- :airplane:Mi sueño es conocer tantos paises como pueda
+:dancer:Me gusta bailar
+
+:video_game:Me encantan los videojuegos (sobre todo los de estrategia)
+
+:musical_keyboard:Se tocar el piano (pero poquito)
+
+:muscle:Disfruto mucho el ejercicio
+
+:airplane:Mi sueño es conocer tantos paises como pueda
+
    
 		
 

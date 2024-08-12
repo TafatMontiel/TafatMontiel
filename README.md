@@ -65,11 +65,11 @@
 
 ## <b> :zap::Datos no laborales
 
-- :dancer:Me gusta bailar
-- :video_game:Me encantan los videojuegos (sobre todo los de estrategia)
-- :musical_keyboard:Se tocar el piano (pero poquito)
-- :muscle:Disfruto mucho el ejercicio
-- :airplane:Mi sueño es conocer tantos paises como pueda
+:dancer:Me gusta bailar
+:video_game:Me encantan los videojuegos (sobre todo los de estrategia)
+:musical_keyboard:Se tocar el piano (pero poquito)
+:muscle:Disfruto mucho el ejercicio
+:airplane:Mi sueño es conocer tantos paises como pueda
    
 		
 

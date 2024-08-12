@@ -1,4 +1,4 @@
-Bienvenido a mi portafolio de Analisis de Datos!
+:wave:Bienvenido a mi portafolio de Analisis de Datos!*
 
 Hola, Me llamo Tafat y soy analista de Datos con una pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos. 
 Actualmente estoy estudiando Administración de Empresas, lo que me permite combinar mis habilidades técnicas con una visión estratégica del negocio. Soy competente en el uso 

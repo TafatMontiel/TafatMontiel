@@ -5,7 +5,7 @@ Actualmente estoy estudiando Administración de Empresas, lo que me permite comb
 de herramientas como Power BI y Tableau para la creación de dashboards e informes. Me gusta el trabajo en equipo y tengo enfoque en la resolución de problemas en el 
 ámbito empresarial. 
 
-Tengo experiencia en la manipulación y visualización de datos utilizando herramientas como SQL, y Excel. Me encanta aprender nuevas habilidades y fortalecer las ya adquiridas, 
+Tengo experiencia en la manipulación de base de datos utilizando herramientas como SQL, y Excel. Me encanta aprender nuevas habilidades y fortalecer las ya adquiridas, 
 estoy siempre en busca de cursos, libros y proyectos que me permitan expandir mis conocimientos en análisis de datos y administración de negocios.
 
 Este portafolio, incluye una variedad de proyectos que muestran mis habilidades de análisis de datos. Encontrarás enlaces a los paneles e informes que he creado utilizando 

@@ -4,7 +4,7 @@
 
 
 <br>	
-## :hibiscus:Sobre mí </b>
+## :bar_chart:Conocimientos </b>	
 
 
 

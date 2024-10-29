@@ -17,7 +17,7 @@
 
 - :earth_americas:Hablo español (Nativo) e Inglés (B1) aunque planeo seguir aprendiendo.
 
-- :mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1_-44eZ6hfABNVnkpEiZLCniy4pmirBBG/view?usp=sharing)
+- :mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1ccvBhYuPGQgMCVn4TJknkSyAIzEe9OvF/view?usp=drive_link)
 
 
 <br><br>

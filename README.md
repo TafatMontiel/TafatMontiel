@@ -9,7 +9,7 @@
 
 <br>
 
-- :computer:Soy analista de Datos con pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos.
+- :computer:Soy analista de Datos Jr. con pasión por encontrar soluciones a los problemas empresariales a través del análisis y la interpretación de datos.
 
 - :mortar_board:Soy profesional en seguridad laboral y estudiante de administración de empresas.
 
@@ -17,7 +17,7 @@
 
 - :earth_americas:Hablo español (Nativo) e Inglés (B1) aunque planeo seguir aprendiendo.
 
-- :mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1E46H7rOcZUqgmZJZWQrZCvFBXGKn9DCu/view?usp=drive_link)
+- :mag_right:Estoy abierta a nuevas oportunidades de trabajo, aquí mi [CV](https://drive.google.com/file/d/1mRO1IDsXdCt1Gz7HvSd3pDFh0zyJeaGB/view?usp=drive_link)
 
 
 <br><br>
